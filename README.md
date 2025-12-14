@@ -204,16 +204,6 @@ nc <ip> 4444
 
 ---
 
-## 📦 Deliverables
-
-✔ Lab Setup Report
-✔ Screenshots of Kali, Metasploitable, Wireshark
-✔ GitHub repository with notes & Linux cheat sheet
-✔ Wireshark packet capture
-✔ 5-minute video walkthrough of lab setup
-
----
-
 ## 🏁 Conclusion
 
 This lab provides a complete foundation for anyone starting a career in **cybersecurity**, **SOC analysis**, or **ethical hacking**. It combines theoretical understanding with hands-on practice using industry-standard tools in a safe environment.
