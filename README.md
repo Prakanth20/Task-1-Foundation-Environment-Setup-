@@ -1,5 +1,3 @@
----
-
 # 🛡️ Cybersecurity Foundations Lab
 
 **Networking | Linux | Cryptography | Security Tools**
